@@ -83,7 +83,7 @@ Systems/software Engineer Enthusiast | IoT Developer
 📄 License
 Custom Non-Commercial License (CNCL) - Version 1.0
 
-Copyright (c) [2025] [Spot Savy Smart Parking System]
+Copyright (c) [2024] [Spot Savy Smart Parking System]
 
 Permission is hereby granted, free of charge, to use, copy, modify, and distribute copies of the Software, subject to the following conditions:
 
